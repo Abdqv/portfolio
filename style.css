@@ -540,5 +540,10 @@ header .navbar ul li a:hover{
         header .navbar{
         width: 50%;
     }
+    header{
+    width:30%;
+        height:100%;
+    }
+        
 
  }
