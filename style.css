@@ -85,7 +85,7 @@ header{
     top:0; left:0;
     z-index: 1000;
     height:100%;
-    width:30rem;
+    width:35rem;
     background-image: linear-gradient(white,white);
     display: flex;
     align-items: center;
