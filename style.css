@@ -391,7 +391,7 @@ header .navbar ul li a:hover{
 
 
 /* media queries  */
-@media (max-width:2300px){
+@media (max-width:2400px){
 
     html{
         font-size: 55%;
@@ -399,6 +399,10 @@ header .navbar ul li a:hover{
 
     .home{
         padding:1rem 4rem;
+    }
+    
+        header .navbar{
+        width: 50%;
     }
 
 }
@@ -411,6 +415,9 @@ header .navbar ul li a:hover{
     .home{
         padding:1rem 4rem;
     }
+        header .navbar{
+        width: 50%;
+    }
 
 }
 @media (max-width:1800px){
@@ -422,16 +429,8 @@ header .navbar ul li a:hover{
     .home{
         padding:1rem 4rem;
     }
-
-}
-@media (max-width:1500px){
-
-    html{
-        font-size: 55%;
-    }
-
-    .home{
-        padding:1rem 4rem;
+        header .navbar{
+        width: 50%;
     }
 
 }
@@ -443,6 +442,23 @@ header .navbar ul li a:hover{
 
     .home{
         padding:1rem 4rem;
+    }
+        header .navbar{
+        width: 50%;
+    }
+
+}
+@media (max-width:1500px){
+
+    html{
+        font-size: 55%;
+    }
+
+    .home{
+        padding:1rem 4rem;
+    }
+        header .navbar{
+        width: 50%;
     }
 
 }
@@ -455,6 +471,9 @@ header .navbar ul li a:hover{
 
     .home{
         padding:1rem 4rem;
+    }
+        header .navbar{
+        width: 50%;
     }
 
 }
@@ -476,6 +495,9 @@ header .navbar ul li a:hover{
    body{
        padding:0;
    }
+        header .navbar{
+        width: 50%;
+    }
 
 }
 
@@ -483,6 +505,9 @@ header .navbar ul li a:hover{
 
     html{
         font-size: 50%;
+    }
+        header .navbar{
+        width: 50%;
     }
  
  }
@@ -511,6 +536,9 @@ header .navbar ul li a:hover{
 
     .contact .row form{
         margin:3rem 0;
+    }
+        header .navbar{
+        width: 50%;
     }
 
  }
